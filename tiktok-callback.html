@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TikTok connected - Smarter Tonight</title>
+<link rel="icon" href="icon.png">
+<style>
+  body { margin: 0; background: #f4f1e8; color: #1c1c1c; font: 17px/1.55 Georgia, "Times New Roman", serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 28px; margin: 0 0 16px; }
+  code { display: block; word-break: break-all; background: #fff; border: 1px solid #ddd; padding: 12px; margin: 16px 0; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>TikTok connected</h1>
+  <p>Copy the full address of this page into the terminal that asked for it, then close this tab.</p>
+  <code id="url"></code>
+  <script>document.getElementById("url").textContent = location.href;</script>
+</main>
+</body>
+</html>
