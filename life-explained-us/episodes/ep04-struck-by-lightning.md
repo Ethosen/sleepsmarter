@@ -1,7 +1,7 @@
 # ep04 — What It Feels Like to Be Struck by Lightning
 
 - **Adapted from (FR)** : sujet natif US (même structure que « Voici ce qu'on ressent en mourant… »)
-- **Target length** : ~7 min · ~1 000 words
+- **Target length** : ~5.5 min · ~800 spoken words
 - **US setting** : fishing boat on a lake in central Florida, July, 3:40 p.m.
 - **Resource banner** : 911
 - **Adaptation notes** : épisode idéal pour la chaîne US : très « American summer », zéro risque

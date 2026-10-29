@@ -1,7 +1,7 @@
 # ep03 — Why You Actually Die (Nobody Tells You This)
 
 - **Adapted from (FR)** : « La Vraie Raison pour laquelle on Meurt (personne ne te l'explique) »
-- **Target length** : ~8 min · ~1 150 words — vidéo « pilier » de la chaîne
+- **Target length** : ~6 min · ~840 spoken words — vidéo « pilier » (rallonger à 10 min avec une section par animal longévif si besoin)
 - **US setting** : a hospital room in Ohio, then a timeline across one American life (1950s diner → 2020s suburb)
 - **Resource banner** : none
 - **Adaptation notes** : on garde la question centrale de la version FR (pourquoi meurt-on alors que la vie

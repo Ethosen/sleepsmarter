@@ -1,7 +1,7 @@
 # ep02 — What Dying From Fentanyl Actually Feels Like
 
 - **Adapted from (FR)** : « Voici ce qu'on ressent en mourant par le fentanyl »
-- **Target length** : ~7 min · ~1 000 words
+- **Target length** : ~5.5 min · ~830 spoken words
 - **US setting** : college-town apartment, Ohio, Friday 11 p.m. — a pill passed around by a friend
 - **Resource banner** : SAMHSA 1-800-662-4357 · 911 · (988 en commentaire épinglé)
 - **Adaptation notes** : en France le fentanyl reste un sujet « américain » ; ici c'est le sujet n°1 de

@@ -1,7 +1,7 @@
 # ep01 — This Is What It Feels Like to Be Hit by a Car
 
 - **Adapted from (FR)** : « Voici ce qu'on ressent en mourant écrasé par une voiture »
-- **Target length** : ~7 min · ~1 050 words at 150 wpm
+- **Target length** : ~6 min · ~900 spoken words at 150 wpm
 - **US setting** : six-lane arterial road in Phoenix, Arizona, 9:40 p.m., no crosswalk nearby
 - **Resource banner** : 911 (bystander section)
 - **Adaptation notes** : la version FR se passe sur une route française avec une voiture standard.
