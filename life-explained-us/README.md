@@ -37,16 +37,28 @@ les chiffres (sources US), les décors des illustrations (États-Unis) et les un
 3. [`ep03-the-real-reason-you-die`](episodes/ep03-the-real-reason-you-die.md) — adaptation de « La vraie raison pour laquelle on meurt »
 4. [`ep04-struck-by-lightning`](episodes/ep04-struck-by-lightning.md) — sujet 100 % US (Floride, « lightning capital »)
 
-## Limites de cette première passe (à lire)
+## ⚠️ Constat après analyse des vraies données (29/10/2026)
 
-- **YouTube est bloqué par le réseau de cet environnement cloud** : je n'ai pas pu regarder les
-  vidéos ni lire les transcriptions. L'analyse du format repose sur la description de la chaîne et
-  les titres trouvés via recherche web. Les points marqués *(à vérifier)* dans
-  `01-channel-analysis.md` doivent être confirmés en regardant 3-5 vidéos FR.
-- **Aucune vidéo n'était présente dans le dépôt** (seulement le site Smarter Tonight). Si tu as
-  la « stack » de vidéos en local, deux options :
-  1. autoriser `youtube.com` dans les réglages réseau de l'environnement, ou
-  2. déposer les transcriptions (`.txt`/`.srt`) dans `reference-fr/` et je calerai les scripts
-     US phrase par phrase sur la structure exacte des originaux.
-- Tous les chiffres des scripts sont des ordres de grandeur sourcés en fin d'épisode ;
-  à revérifier au moment de publier (les stats CDC/NHTSA changent chaque année).
+**La chaîne FR traduit une chaîne américaine existante : [Mr. Death](https://www.youtube.com/@Mr.Death.Official)**
+(204 k abonnés, 38 vidéos « What … Feels Like »). Détail et tableau de correspondance dans
+[`docs/01-channel-analysis.md`](docs/01-channel-analysis.md).
+
+Conséquences :
+- Retraduire les vidéos FR en anglais reviendrait à republier Mr. Death sur son propre marché :
+  risque de réclamation pour droits d'auteur et de démonétisation pour « contenu réutilisé ».
+- Les vidéos du format font **11 à 16 min**. Les 4 épisodes actuels (~6 min) sont des scripts
+  originaux, mais il faudra les doubler en longueur.
+
+## Données & outils
+
+| Dossier | Contenu |
+|---|---|
+| [`research/`](research/) | Catalogues FR (14 vidéos) et EN Mr. Death (38 vidéos), descriptions et commentaires FR |
+| [`tools/`](tools/) | Client minimal de l'API interne YouTube (`python3 tools/list_videos.py <channelId>`) |
+
+## Limites
+
+- Transcriptions, vidéos et miniatures restent inaccessibles depuis cet environnement cloud
+  (connexion exigée par YouTube + hôtes vidéo/images bloqués). Pour les obtenir, lancer en local
+  la commande de [`reference-fr/README.md`](reference-fr/README.md) et déposer les `.srt` dans le dépôt.
+- Tous les chiffres des scripts sont sourcés en fin d'épisode ; à revérifier avant publication.
